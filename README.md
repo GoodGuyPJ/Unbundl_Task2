@@ -1,5 +1,7 @@
 # Unbundl_Task2
 Deploy Link: https://goodguypj.github.io/Unbundl_Task2/
+
+
 Explanation of Approach:
 
 1. HTML Structure:
@@ -34,7 +36,7 @@ Overall Design Philosophy:
 
 The focus is on creating a user-friendly interface with clear instructions.
 Responsiveness is not only in terms of layout but also in providing real-time feedback to users as they make selections.
-Note: Depending on specific project requirements and future scalability needs, a more complex framework or library like React or Vue.js might be considered. However, for a small-scale interactive feature like this, keeping it simple with vanilla HTML, CSS, and JavaScript is often sufficient and easy to maintain.
+
 
 
 
